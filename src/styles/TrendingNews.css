@@ -1,0 +1,30 @@
+.trending-news {
+    margin-top: 20px;
+}
+
+.trending-news h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.trending-news-item {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.trending-news-item img {
+    width: 150px;
+    height: 100px;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+.trending-news-item h3 {
+    font-size: 18px;
+    margin: 0;
+}
+
+.trending-news-item p {
+    margin: 0;
+    color: #666;
+}
